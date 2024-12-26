@@ -1,5 +1,5 @@
 
-import {products} from '@/src/data/shopdata'
+import {products} from '@/data/shopdata'
 import Link from 'next/link'
 import { FaFacebook, FaLinkedin } from 'react-icons/fa'
 import { IoLogoTwitter } from 'react-icons/io5'

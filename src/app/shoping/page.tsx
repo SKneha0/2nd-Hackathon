@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
-import Shop from '@/src/Image/ourpagebg.jip.png'
+import Shop from '@/Image/ourpagebg.jip.png'
 import { IoIosArrowForward } from "react-icons/io";
-import Food from '@/src/Image/food-category-1.jpg.png'
+import Food from '@/Image/food-category-1.jpg.png'
 import { AiOutlineClose } from "react-icons/ai";
 import { TbCheckbox } from "react-icons/tb";
 function page() {

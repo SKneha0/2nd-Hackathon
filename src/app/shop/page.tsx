@@ -1,9 +1,9 @@
 'use client'
 import React, { useState } from "react";
-import shop from "@/src/Image/shop.png";
+import shop from "@/Image/shop.png";
 import Image from "next/image";
 import { IoIosArrowForward } from "react-icons/io";
-import { products } from "@/src/data/shopdata";
+import { products } from "@/data/shopdata";
 import ProductCard from "./ProductCard";
 import Filter from "./Filter";
 import { LuSettings2 } from "react-icons/lu";
