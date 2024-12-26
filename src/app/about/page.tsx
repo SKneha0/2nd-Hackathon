@@ -1,12 +1,12 @@
 import React from 'react'
 import Image from 'next/image'
 import { IoIosArrowForward } from "react-icons/io";
-import Shop from '@/src/Image/ourpagebg.jip.png'
-import Food from '@/src/Image/About.img.png'
-import Food2 from '@/src/Image/About.img2.png'
-import Food3 from '@/src/Image/About.img3.png'
+import Shop from '@/Image/ourpagebg.jip.png'
+import Food from '@/Image/About.img.png'
+import Food2 from '@/Image/About.img2.png'
+import Food3 from '@/Image/About.img3.png'
 import { FaCirclePlay } from "react-icons/fa6";
-import Bg from '@/src/Image/About.benner.jpg.png'
+import Bg from '@/Image/About.benner.jpg.png'
 import { SiCodechef } from "react-icons/si";
 import { GiCoffeeCup } from "react-icons/gi";
 import { IoAccessibilityOutline } from "react-icons/io5";
