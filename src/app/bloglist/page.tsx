@@ -1,28 +1,28 @@
 import React from 'react'
 import Image from 'next/image'
-import Shop from '@/src/Image/ourpagebg.jip.png'
+import Shop from '@/Image/ourpagebg.jip.png'
 import { IoIosArrowForward } from "react-icons/io";
-import Blog1image from '@/src/Image/bloglist.1.png'
-import Blog2image from '@/src/Image/bloglist2.jpg.png'
-import Blog3image from '@/src/Image/bloglist.3.png'
-import Blog4image from '@/src/Image/bloglist4.png'
+import Blog1image from '@/Image/bloglist.1.png'
+import Blog2image from '@/Image/bloglist2.jpg.png'
+import Blog3image from '@/Image/bloglist.3.png'
+import Blog4image from '@/Image/bloglist4.png'
 import { FaCalendarDay } from "react-icons/fa";
 import { FaMessage } from "react-icons/fa6";
 import { MdOutlinePersonAddAlt } from "react-icons/md";
-import Men from '@/src/Image/blogmenimg.png'
+import Men from '@/Image/blogmenimg.png'
 import { FaStar } from "react-icons/fa";
 import { FaFacebookF } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa6";
 import { GrInstagram } from "react-icons/gr";
 import { FaMailBulk } from "react-icons/fa";
-import Food from '@/src/Image/recent1.png'
-import Food2 from '@/src/Image/recent.2png.png'
-import Food3 from '@/src/Image/recent3.png'
-import Food4 from '@/src/Image/recent4png.png'
-import Eat from '@/src/Image/recent.2png.png'
-import Photo1 from '@/src/Image/recent.2png.png'
-import Photo2 from '@/src/Image/recent.2png.png'
-import Photo3 from '@/src/Image/recent.2png.png'
+import Food from '@/Image/recent1.png'
+import Food2 from '@/Image/recent.2png.png'
+import Food3 from '@/Image/recent3.png'
+import Food4 from '@/Image/recent4png.png'
+import Eat from '@/Image/recent.2png.png'
+import Photo1 from '@/Image/recent.2png.png'
+import Photo2 from '@/Image/recent.2png.png'
+import Photo3 from '@/Image/recent.2png.png'
 function page() {
   return (
     <div className='bg-white'>

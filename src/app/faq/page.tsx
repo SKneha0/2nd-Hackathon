@@ -1,6 +1,6 @@
 import React from 'react'
 import  Image from 'next/image'
-import  Shop from '@/src/Image/ourpagebg.jip.png'
+import  Shop from '@/Image/ourpagebg.jip.png'
 import { IoIosArrowForward } from "react-icons/io";
 import { VscAdd } from "react-icons/vsc";
 

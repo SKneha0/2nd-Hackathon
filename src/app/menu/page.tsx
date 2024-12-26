@@ -1,12 +1,12 @@
 // pages/index.tsx
 import Image from 'next/image';
-import Dish1 from '@/src/Image/Dish1.png'
-import Dish2 from '@/src/Image/dish2.png'
-import Dish3 from '@/src/Image/dish3.png'
-import Dish4 from '@/src/Image/dish.png'
-import {menuItems } from "@/src/data/menudata";
-import  Taste  from '@/src/components/Chosse'
-import Shop from '@/src/Image/ourpagebg.jip.png'
+import Dish1 from '@/Image/Dish1.png'
+import Dish2 from '@/Image/dish2.png'
+import Dish3 from '@/Image/dish3.png'
+import Dish4 from '@/Image/dish.png'
+import {menuItems } from "@/data/menudata";
+import  Taste  from '@/components/Chosse'
+import Shop from '@/Image/ourpagebg.jip.png'
 import { IoIosArrowForward } from "react-icons/io";
 
 export default function Home() {

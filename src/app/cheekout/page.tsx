@@ -1,8 +1,8 @@
 import React from 'react'
 import Image from 'next/image'
-import Shop from '@/src/Image/ourpagebg.jip.png'
+import Shop from '@/Image/ourpagebg.jip.png'
 import { IoIosArrowForward } from "react-icons/io";
-import Food from '@/src/Image/choess.1.png'
+import Food from '@/Image/choess.1.png'
 import { SlArrowLeft } from "react-icons/sl";
 import { SlArrowRight } from "react-icons/sl";
 import { HiArrowRight } from "react-icons/hi2";

@@ -1,6 +1,6 @@
 import React from 'react'
 import { IoIosArrowForward } from "react-icons/io";
-import Shop from '@/src/Image/ourpagebg.jip.png'
+import Shop from '@/Image/ourpagebg.jip.png'
 import Image from 'next/image'
 import Link from 'next/link';
 function page() {
